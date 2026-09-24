@@ -1,35 +1,42 @@
 # 👋 Hola, soy Eric Pérez
 
-💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 📍 Barcelona, España 🇪🇸
 
-## 🧠 Sobre mí
+## Sobre mí
 
-Me interesa el desarrollo de software, aplicaciones web y bases de datos.  
-Siempre aprendiendo y creando nuevos proyectos.
+Me interesa el **desarrollo de software**, la creación de aplicaciones y
+el desarrollo web. Actualmente estoy mejorando mis conocimientos mediante
+proyectos personales y académicos.
 
 ## ⚙️ Tecnologías
 
-`Java` `Python` `JavaScript` `HTML` `CSS` `MySQL` `Git` `GitHub`
+`Java` `Python` `JavaScript` `HTML` `CSS` `MySQL` `Git`
 
 ## 🚀 Proyectos
 
-- 💳 Sistema de pago por visión con **MySQL + XAMPP**
-- 🌐 Web dinámica con **MySQL**
-- 💻 Proyectos de programación y desarrollo de aplicaciones
+- Sistema de pago por visión con **XAMPP + MySQL**
+- Web dinámica conectada a **MySQL**
+- Proyectos de desarrollo de aplicaciones con **Java**
+- Proyectos de programación con **Python**
+- Desarrollo web con **HTML, CSS y JavaScript**
 
-## 💼 Experiencia
+## 📚 Actualmente aprendiendo
 
-🖥️ **Técnico informático** — Erasmus (2025)  
-🏥 **Departamento de Informática** — Hospital Quironsalud Barcelona
+- Desarrollo de aplicaciones
+- Bases de datos y SQL
+- Desarrollo web
+- Buenas prácticas de programación
+- Git y GitHub
 
 ## 📫 Contacto
 
-📧 **ericperezbusiness@gmail.com**  
+📧 **ericperezbusiness@gmail.com**
+
 🔗 [GitHub](https://github.com/EricPerezLopez)
 
 ---
 
 <p align="center">
-  🚀 <b>Aprendiendo · Creando · Mejorando</b>
+  🚀 <b>Code · Learn · Build</b>
 </p>
