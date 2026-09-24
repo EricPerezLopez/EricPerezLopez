@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Eric Pérez
 
-<!--
-**EricPerezLopez/EricPerezLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+📍 Barcelona, España 🇪🇸
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa el desarrollo de software, aplicaciones web y bases de datos.  
+Siempre aprendiendo y creando nuevos proyectos.
+
+## ⚙️ Tecnologías
+
+`Java` `Python` `JavaScript` `HTML` `CSS` `MySQL` `Git` `GitHub`
+
+## 🚀 Proyectos
+
+- 💳 Sistema de pago por visión con **MySQL + XAMPP**
+- 🌐 Web dinámica con **MySQL**
+- 💻 Proyectos de programación y desarrollo de aplicaciones
+
+## 💼 Experiencia
+
+🖥️ **Técnico informático** — Erasmus (2025)  
+🏥 **Departamento de Informática** — Hospital Quironsalud Barcelona
+
+## 📫 Contacto
+
+📧 **ericperezbusiness@gmail.com**  
+🔗 [GitHub](https://github.com/EricPerezLopez)
+
+---
+
+<p align="center">
+  🚀 <b>Aprendiendo · Creando · Mejorando</b>
+</p>
